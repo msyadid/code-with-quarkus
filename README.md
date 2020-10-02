@@ -6,7 +6,7 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 ## Generate project
 
-Go to https://code.quarkus.io/ choose Compatibility section then choose Quarkus Extension for Spring Web API
+Go to https://code.quarkus.io/ choose `Compatibility` section then choose `Quarkus Extension for Spring Web API`
 
 ## Running the application in dev mode
 
